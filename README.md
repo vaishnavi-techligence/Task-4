@@ -64,7 +64,7 @@ This compiles your output directly into:
 *    **JavaScript Entrypoint**: `dist/assets/index-CyozkmFO.js`
 *    **Styles Bundle**: `dist/assets/index-tf4rwxhN.css`
 ---
-```
+
 ##Screenshots of the implementation
 
 <img width="1912" height="912" alt="image" src="https://github.com/user-attachments/assets/6c765cd5-51da-4d56-a76f-d676d8429d97" />
