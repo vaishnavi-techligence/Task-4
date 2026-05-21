@@ -4,7 +4,7 @@
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 ---
 Currently, two official plugins are available:
-## 🏛️ Curation Philosophy
+## Curation Philosophy
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 **Aether** is a luxury digital storefront where products are treated not merely as commodities, but as certified collector artifacts. The interface is meticulously designed around premium design principles—combining rich dark modes, sophisticated glassmorphic cards, harmonized warm gold accent lighting, and smooth micro-animations to deliver a state-of-the-art catalog experience.
@@ -64,7 +64,9 @@ This compiles your output directly into:
 *    **JavaScript Entrypoint**: `dist/assets/index-CyozkmFO.js`
 *    **Styles Bundle**: `dist/assets/index-tf4rwxhN.css`
 ---
+```
 ##Screenshots of the implementation
+
 <img width="1912" height="912" alt="image" src="https://github.com/user-attachments/assets/6c765cd5-51da-4d56-a76f-d676d8429d97" />
 <img width="1885" height="914" alt="image" src="https://github.com/user-attachments/assets/35e7880b-5cd5-4b09-9a5a-5cac1c795d6f" />
 <img width="334" height="607" alt="image" src="https://github.com/user-attachments/assets/f7e228f6-7675-4736-88bb-807bbac0a025" />
@@ -72,6 +74,8 @@ This compiles your output directly into:
 <img width="1894" height="919" alt="image" src="https://github.com/user-attachments/assets/f9b74eb8-db39-4b99-bdd1-d62791179faf" />
 <img width="1546" height="594" alt="image" src="https://github.com/user-attachments/assets/b1726fba-1c93-45f7-a2f2-86b0ede0d603" />
 <img width="1860" height="772" alt="image" src="https://github.com/user-attachments/assets/a9e0a8ac-a600-4480-bde3-c031256fa53f" />
+
+
 <img width="1078" height="783" alt="image" src="https://github.com/user-attachments/assets/0e6bb806-b035-4691-879e-3e68644178a0" />
 
 ##  Project Architecture
